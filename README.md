@@ -1,10 +1,23 @@
-# CRWN Clothing V1
+# CRWN Clothing V2
 
-<p>This is version 1 of the app. This app contains React Context and SCSS, whereas future versions will not. Instead subsequent versions of the app will contain Redux, Styled Components, TypeScript. The most up to date version is: V? </p>
+<p>This is version 2 of the app. This app contains TypeScript, Styled Components, Redux whereas the previous version contained React Context, SCSS. The previous version did not contain TypeScript either. The most up to date version is: V2 </p>
 
 <p>I have uploaded different versions to show I have knowledge of these various technologies.</p>
 
 <p>This was a follow along online tutorial.</p>
+
+V2 Tech Stack: 
+
+- React
+- React Router
+- TypeScript
+- Redux
+- Google Auth
+- Firebase
+- Netlify
+- Styled Components
+- Yarn
+
 
 V1 Tech Stack: 
 
@@ -16,5 +29,3 @@ V1 Tech Stack:
 - Netlify
 - SCSS
 - Yarn
-
-Please view the latest version to see the complete and fully working e-commerce app.

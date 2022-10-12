@@ -1,4 +1,4 @@
-# CRWN Clothing V2
+# CRWN Clothing V2 (Work In Progress)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/467993db-5ac7-4579-b090-d5f6fdbb1918/deploy-status)](https://app.netlify.com/sites/crwn-clothing-fullstackryan/deploys)
 
@@ -17,6 +17,7 @@ V2 Tech Stack:
 - Google Auth
 - Firebase
 - Netlify
+- Stripe API
 - Styled Components
 - Yarn
 

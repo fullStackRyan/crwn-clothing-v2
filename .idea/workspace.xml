@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="939723c2-151c-4a58-8376-c6aa298981ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/contexts/user.context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/user.context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/categories.context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/categories.context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/user.context.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/user/user.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/user/user.types.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +28,7 @@
   </component>
   <component name="ProjectId" id="2F6vVP5ctHbWDahBCkDr17QIoNv" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -30,8 +36,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/emma-/code/crwn-clothing",
-    "settings.editor.selected.configurable": "project.kotlinCompiler"
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,8 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663825371350</updated>
+      <workItem from="1668863005496" duration="1234000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
